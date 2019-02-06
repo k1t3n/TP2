@@ -1,0 +1,3 @@
+Constantes en majuscules
+Variables en minuscules
+Classes commencent en Majuscules
